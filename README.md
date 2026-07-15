@@ -78,6 +78,6 @@ Business_Sales_Performance_Analytics/
 The project provides valuable business insights that help understand sales performance, customer trends, and profitability, enabling better business decisions.
 
 ## 👩‍💻 Author
-**Karishma Shaik**
+**Sania Amber**
 
 Future Interns – Data Science & Analytics Internship
